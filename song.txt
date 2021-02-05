@@ -10,11 +10,13 @@ And I think to myself what a wonderful world
 
 The colors of the rainbow so pretty in the sky
 Are also on the faces of people going by
-I see friends shaking hands, saying “How do you do?”
-They're really saying “I love you”
+I see friends shaking hands, saying â€œHow do you do?â€
+They're really saying â€œI love youâ€
 
 I hear babies crying, I watch them grow
 They'll learn much more than I'll never know
 And I think to myself what a wonderful world
 Yes, I think to myself what a wonderful world
 Oh yeah 
+
+Text from github for pull
