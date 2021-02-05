@@ -1,4 +1,4 @@
-What A Wonderful World
+﻿What A Wonderful World
 
 I see trees of green, red roses too
 I see them bloom for me and you
@@ -7,3 +7,23 @@ And I think to myself what a wonderful world
 I see skies of blue and clouds of white
 The bright blessed day, the dark sacred night
 And I think to myself what a wonderful world
+And I think to myself what a wonderful world
+
+The colors of the rainbow so pretty in the sky
+Are also on the faces of people going by
+I see friends shaking hands, saying “How do you do?”
+They're really saying “I love you”
+
+I hear babies crying, I watch them grow
+They'll learn much more than I'll never know
+And I think to myself what a wonderful world
+Yes, I think to myself what a wonderful world
+Oh yeah 
+
+Text from github for pull
+
+Addition main 1
+
+Addition main 2
+
+For revert
