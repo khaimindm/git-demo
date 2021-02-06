@@ -28,3 +28,5 @@ Addition main 2
 Addition feature3 1
 
 Addition feature3 2
+
+Adding for stash
