@@ -34,3 +34,5 @@ Adding during stash feature 3
 Additions for reset
 
 Additions for reset 2
+
+Additions for reset 3
